@@ -1,0 +1,45 @@
+{"list":[
+
+{"title":"Personeelsstatistieken","links":[
+    {"title":"Statistiek Alles","asset_url":"powerBi","target_url":      "https://app.powerbi.com/groups/8868ba18-18e2-4846-80cc-db1800b8bfe5/reports/801437cf-3204-414c-b802-195c82945d39/ReportSection99dcdb641d0256e32b98?bookmarkGuid=Bookmark09ca6c8f7aa56bc18bb0"},
+    {"title":"Statistieken arbeiders","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/8868ba18-18e2-4846-80cc-db1800b8bfe5/reports/801437cf-3204-414c-b802-195c82945d39/ReportSection8aeabe02896d01d402a8?bookmarkGuid=Bookmarkbfaa3a324699099b0e09"},
+    {"title":"Statistieken bedienden","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/8868ba18-18e2-4846-80cc-db1800b8bfe5/reports/801437cf-3204-414c-b802-195c82945d39/ReportSectionfef44ce6b0790c3bd058?bookmarkGuid=Bookmark2a3d42c054019670e88d"},
+    {"title":"Lijst jubilea","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/8868ba18-18e2-4846-80cc-db1800b8bfe5/reports/801437cf-3204-414c-b802-195c82945d39/ReportSection1808b4add4810a44082d?bookmarkGuid=Bookmarkf9a95cb3061a34d84adc"},
+    {"title":"Overzicht in/uit arbeiders en bedienden","asset_url":"excel","disabled":"true","target_url":""},
+    {"title":"Maandrapport uren en kosten arbeiders en bedienden","disabled":"true","asset_url":"excel","target_url":""},
+    {"title":"Kwartaalrapport uren arbeiders en bedienden","disabled":"true","asset_url":"excel","target_url":""},
+    {"title":"Verzuimcijfers arbeiders en bedienden","disabled":"true","asset_url":"excel","target_url":""},
+    {"title":"Werknemers sinds 1985","disabled":"true","asset_url":"excel","target_url":""},
+    {"title":"Anciënniteit werfleiders","target_url":"http://per.juri.lan/wlancien/wlancien.php"}
+]},
+{"title":"Personeelsadministratie","links":[    
+    {"title":"Personeelsfiches","target_url":"http://per.juri.lan/fiche/personeel.php"},
+    {"title":"Anomalieën uren prestatiedagboek","asset_url":"powerBi","target_url":"https://app.powerbi.com/links/3cAHcmJ01a?ctid=255a9ca5-f810-42b4-bc76-b8cac74e1e72&pbi_source=linkShare&bookmarkGuid=022bc71a-0130-4733-9445-81b01932dca1"},
+    {"title":"Wagenlijst","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/a72773db-e903-463c-a52e-b3e01d52eed5/ReportSection662d28d85950e4cb1632"},
+    {"title":"Lijst personeel – RR – bedrijfswagens","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/s/Personeelsdienst/EaXNjfq6qPZHn1-LXYr9xKsBSZ5RPZ3SrHB_tFsBnY2Myg?e=W4gVMK"},
+    {"title":"Loonopgave interims","disabled":"true","asset_url":"excel","target_url":"https://www.juri.be"},
+    {"title":"Controle facturen interimkantoren","disabled":"true","asset_url":"excel","target_url":"https://www.juri.be"},
+    {"title":"Loonlijst arbeiders","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/8868ba18-18e2-4846-80cc-db1800b8bfe5/reports/801437cf-3204-414c-b802-195c82945d39/ReportSection4062f2a21a147a745ae1?bookmarkGuid=Bookmarkaec2ac958734068961c1"}
+]},
+{"title":"Werving & selectie","links":[
+    {"title":"CV allen","asset_url":"sharepoint","target_url":"https://jurinv753.sharepoint.com/sites/Personeelsdienst/Lists/CV%20Database/allitems.aspx"},
+    {"title":"CV in behandeling","asset_url":"sharepoint","target_url":"https://jurinv753.sharepoint.com/sites/Personeelsdienst/Lists/CV Database/In behandeling.aspx"},
+    {"title":"Kosten publiciteit","asset_url":"powerBi","target_url":"https://app.powerbi.com/links/qTs6RwvsE1?ctid=255a9ca5-f810-42b4-bc76-b8cac74e1e72&pbi_source=linkShare"}
+]},
+{"title":"Planning","links":[
+    {"title":"LT Planning","asset_url":"timaster","target_url":"https://juri.timaster.be/plan/resource?v=we0-500%3Awi80%3Ahe73%3Apl1%3Agrteam_compact%3Acoproject%3Ar3%3Ahp%3Are262%2C268%2C269%2C270%2C274%2C276%2C277%2C278%2C280%2C284%2C287%2C288%2C291%2C293%2C299%2C301%2C302%2C306%2C310%2C317%2C318%2C320%2C321%2C324%2C326%2C327%2C332%2C334%2C336%2C338%2C342%2C380%2C418%2C419%2C530%2C537%2C538%2C539%2C625%2C641%2C648%2C657%2C664%2C668%2C669%2C670%2C672%3Acsa"},
+    {"title":"LT Machine","asset_url":"timaster","target_url":"https://juri.timaster.be/plan/resource?v=we0-500%3Awi80%3Ahe73%3Apl4%3Agrteam%3Acoproject%3Ar3%3Ahp%3Acsa"},
+    {"title":"Dagplanning","asset_url":"timaster","target_url":"https://juri.timaster.be/plan/resource?v=we0-500%3Awi80%3Ahe73%3Apl1%3Acoproject%3Ar3%3Ahp%3Are262%2C263%2C265%2C266%2C267%2C268%2C269%2C270%2C271%2C272%2C274%2C275%2C276%2C277%2C278%2C279%2C280%2C281%2C283%2C284%2C285%2C286%2C287%2C288%2C289%2C290%2C291%2C292%2C293%2C296%2C297%2C298%2C299%2C300%2C301%2C302%2C304%2C305%2C306%2C308%2C309%2C310%2C311%2C312%2C313%2C314%2C315%2C316%2C317%2C318%2C319%2C320%2C321%2C323%2C324%2C325%2C326%2C327%2C329%2C330%2C332%2C333%2C334%2C335%2C336%2C337%2C338%2C339%2C340%2C341%2C342%2C343%2C344%2C351%2C378%2C380%2C416%2C418%2C419%2C427%2C497%2C506%2C529%2C530%2C532%2C533%2C534%2C535%2C536%2C537%2C538%2C539%2C550%2C559%2C562%2C574%2C607%2C612%2C617%2C624%2C625%2C641%2C644%2C645%2C648%2C649%2C656%2C657%2C664%2C665%2C667%2C668%2C669%2C670%2C672%3Acsa"},
+    {"title":"Afwezigheden","asset_url":"timaster","target_url":"https://juri.timaster.be/plan/availability?v=we2-9%3Awi25%3Abc"},
+    {"title":"Woonplaats arbeiders","target_url":"http://wp.juri.lan/"},
+    {"title":"Vaardigheden","target_url":"http://per.juri.lan/vaardigheden/vaardigheden.php"},
+    {"title":"Attesten","target_url":"https://lan.juri.be/attesten/"}
+    
+]},
+{"title":"Rapportering uren analytisch","links":[
+    {"title":"Werknemersprestaties en geboekte werknemersposten","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/s/Personeelsdienst/EdX-ubAU_5lHmulg_WsiBrEBRykt8Xb5BxilXifYQllPfg?e=yaZ3mU"},
+    {"title":"Pregis","asset_url":"pregis","target_url":"https://pregis-juri.mira-appservice.be/Performance"},
+    {"title":"Loonkostberekening uren bedienden","disabled":"true","target_url":""}
+]}
+]
+}

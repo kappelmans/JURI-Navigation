@@ -1,0 +1,30 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "f22c5442-7ccc-4625-b1b6-c9bbfc6639a5",
+  "alias": "HelloWorldWebPart",
+  "componentType": "WebPart",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2,
+
+  // If true, the component can only be installed on sites where Custom Script is allowed.
+  // Components that allow authors to embed arbitrary script code should set this to true.
+  // https://support.office.com/en-us/article/Turn-scripting-capabilities-on-or-off-1f2c515f-5d7e-448a-9fd7-835da935584f
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart", "TeamsPersonalApp", "TeamsTab", "SharePointFullPage"],
+  "supportsThemeVariants": true,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
+    "group": { "default": "Other" },
+    "title": { "default": "JURI navigation" },
+    "description": { "default": "JURI navigation" },
+    "officeFabricIconFontName": "Page",
+    "properties": 
+      {"description": "JURI navigation",
+        "json_input" : "{\"list\":[  {\"title\":\"Personeelsstatistieken\",\"links\":[     {\"title\":\"Statistiek Alles\",\"asset_url\":\"powerBi\",\"target_url\":      \"https://app.powerbi.com/groups/8868ba18-18e2-4846-80cc-db1800b8bfe5/reports/801437cf-3204-414c-b802-195c82945d39/ReportSection99dcdb641d0256e32b98?bookmarkGuid=Bookmark09ca6c8f7aa56bc18bb0\"},     {\"title\":\"Statistieken arbeiders\",\"asset_url\":\"powerBi\",\"target_url\":\"https://app.powerbi.com/groups/8868ba18-18e2-4846-80cc-db1800b8bfe5/reports/801437cf-3204-414c-b802-195c82945d39/ReportSection8aeabe02896d01d402a8?bookmarkGuid=Bookmarkbfaa3a324699099b0e09\"},     {\"title\":\"Statistieken bedienden\",\"asset_url\":\"powerBi\",\"target_url\":\"https://app.powerbi.com/groups/8868ba18-18e2-4846-80cc-db1800b8bfe5/reports/801437cf-3204-414c-b802-195c82945d39/ReportSectionfef44ce6b0790c3bd058?bookmarkGuid=Bookmark2a3d42c054019670e88d\"},     {\"title\":\"Lijst jubilea\",\"asset_url\":\"powerBi\",\"target_url\":\"https://app.powerbi.com/groups/8868ba18-18e2-4846-80cc-db1800b8bfe5/reports/801437cf-3204-414c-b802-195c82945d39/ReportSection1808b4add4810a44082d?bookmarkGuid=Bookmarkf9a95cb3061a34d84adc\"},     {\"title\":\"Overzicht in/uit arbeiders en bedienden\",\"asset_url\":\"excel\",\"disabled\":\"true\",\"target_url\":\"\"},     {\"title\":\"Maandrapport uren en kosten arbeiders en bedienden\",\"disabled\":\"true\",\"asset_url\":\"excel\",\"target_url\":\"\"},     {\"title\":\"Kwartaalrapport uren arbeiders en bedienden\",\"disabled\":\"true\",\"asset_url\":\"excel\",\"target_url\":\"\"},     {\"title\":\"Verzuimcijfers arbeiders en bedienden\",\"disabled\":\"true\",\"asset_url\":\"excel\",\"target_url\":\"\"},     {\"title\":\"Werknemers sinds 1985\",\"disabled\":\"true\",\"asset_url\":\"excel\",\"target_url\":\"\"},     {\"title\":\"Anciënniteit werfleiders\",\"target_url\":\"http://per.juri.lan/wlancien/wlancien.php\"} ]}]}"
+    }
+  }
+  ]
+}
