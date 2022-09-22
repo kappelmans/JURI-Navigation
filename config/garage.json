@@ -1,0 +1,42 @@
+{"list":[
+
+
+{"title":"Garage","links":[
+    {"title":"Wagenlijst","asset_url":"powerBi","target_url": "https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/190e8550-922a-4a80-b127-3b1c3c4794d5/ReportSection662d28d85950e4cb1632?bookmarkGuid=Bookmark1532a86859c31d5da0e5"},
+    {"title":"Onderhoud","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/190e8550-922a-4a80-b127-3b1c3c4794d5/ReportSection04a0df6d00b79a743282?bookmarkGuid=Bookmarkcb43885154e8d163a356"},
+    {"title":"Taho's","asset_url":"sharepoint","target_url":"https://digicentral.openict.be/"}
+]},
+{"title":"Materieel","links":[
+    {"title":"Vrachtwagens","asset_url":"powerBi","target_url": "https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/190e8550-922a-4a80-b127-3b1c3c4794d5/ReportSection44948cd0dd2be7e19442?bookmarkGuid=Bookmark9207c7fa0707350c5a7d"},
+    {"title":"Opleggers","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/190e8550-922a-4a80-b127-3b1c3c4794d5/ReportSection44948cd0dd2be7e19442?bookmarkGuid=Bookmarkcec300b5805e12ede441"},
+    {"title":"Remorken","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/190e8550-922a-4a80-b127-3b1c3c4794d5/ReportSection44948cd0dd2be7e19442?bookmarkGuid=Bookmarkcedbbb7b16d1e551b4dc"},
+    {"title":"Alles","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/190e8550-922a-4a80-b127-3b1c3c4794d5/ReportSection44948cd0dd2be7e19442?bookmarkGuid=Bookmark5ea101c1b94d7d2e4473"}
+
+
+]}
+]
+}
+
+
+
+
+{"list":[      {"title":"Algemeen","links":[        
+
+    {"title":"LAN Juri","target_url":"http://www.juri.lan/"},         
+    {"title":"LAN Werfleiding","target_url":"https://lan.juri.be/"},         
+    {"title":"Interne telefoon","asset_url":"powerBi","target_url": "https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/b56406b4-b094-41c6-97c8-e3fe6203474d/ReportSection0883b48c05dd6f9c8190?bookmarkGuid=Bookmark269faf76ba56076425e0"}     ]},
+
+    {"title":"How To Video","links":[        
+
+        {"title":"Navision", "asset_url":"sharepoint","target_url":"https://jurinv753.sharepoint.com/:u:/s/intern/ET0H7g5zIsFCvR_3T-0qSSQBdpZpuzKDcRVU1-KlL8zQRA?e=74SdRf"},         
+        {"title":"MIRA", "asset_url":"sharepoint", "target_url":"https://jurinv753.sharepoint.com/:u:/s/intern/ET0H7g5zIsFCvR_3T-0qSSQBdpZpuzKDcRVU1-KlL8zQRA?e=JaauGo"}]}
+
+
+
+   
+
+
+        
+
+
+        ] }

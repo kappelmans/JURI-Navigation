@@ -1,0 +1,31 @@
+{"list": [  
+    {"title":"OORSPONKELIJKE - JURI LAN","links":  
+    [ 	
+        {"title":"WERFRESULTATEN","target_url":"http://joa.juri.lan/werfresultaten/"}, 	
+        {"title":"OMZET PER PERIODE","target_url":"http://joa.juri.lan/omzetperiode/omzetperiode.php"}, 	
+        {"title":"BALANS PER PERIODE","target_url":"http://joa.juri.lan/balans/balansperiode.php"}, 	
+        {"title":"VERSLAGEN","target_url":"http://joa.juri.lan/bestuur/verslagen.php"}, 	
+        {"title":"OVERZICHT PERSONEEL","target_url":"http://joa.juri.lan/overzicht/personeelsoverzicht.php"}, 	
+        {"title":"INVESTERINGEN","target_url":"http://joa.juri.lan/investering/investering.php"}, 	
+        {"title":"KOPERSBEGELEIDING","target_url":"http://joa.juri.lan/kopers"}, 	
+        {"title":"LOONKOSTBEREKENING UREN BEHEER","target_url":"http://per.juri.lan/uren/"} 	 	 	 
+    ]},  	 
+    {"title":"Nieuwe rapporten boekhouding","links":  	
+    [ 		
+        {"title":"Balans per periode","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/01039370-ecba-4b79-a817-329cedadeca7/ReportSectione9e41c1184cae66a894b?bookmarkGuid=Bookmarkb6fafb8bb3d0ea90d64a"},      		
+        {"title":"Omzet per periode","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/c5d0512c-8c2d-47fe-b652-cb9facb1848a/ReportSection?bookmarkGuid=Bookmark5608c171b328500e1363"},      		
+        {"title":"Nog uit te voeren werken","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/01039370-ecba-4b79-a817-329cedadeca7/ReportSection81dfec330ed4ba509358?bookmarkGuid=Bookmark9a0bbd16447060712ae2"}, 
+        {"title":"Stock waarde","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/10490840-65a3-4499-8c03-eff3fa1048bd/ReportSection?bookmarkGuid=Bookmark2dcc48c4470e7c64029d"},
+        {"title":"Openstaande klanten","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/f2592301-8f76-44ca-b9a7-fdee50019b44/ReportSection?bookmarkGuid=Bookmark8b635db835abf4920d77"},
+        {"title":"Rendabiliteit","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/01039370-ecba-4b79-a817-329cedadeca7/ReportSectionf52de8b0cc5aa780932a?bookmarkGuid=Bookmark44f0c577c17f7b25b187"}
+        
+    ]} ,
+    {"title":"Nieuwe rapporten overige","links":  	
+    [        
+        {"title":"Omzet per bestuurder / projectleider","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/4f0b116c-9191-4a68-a657-c633f7a5a878/reports/87d2f6cb-8090-426a-b523-507b402ef73f/ReportSection5f88a4b015adca9c9c77?bookmarkGuid=Bookmark5ba54bf6510026461010"},
+        {"title":"Kosten publiciteit","asset_url":"powerBi","target_url":"https://app.powerbi.com/links/qTs6RwvsE1?ctid=255a9ca5-f810-42b4-bc76-b8cac74e1e72&pbi_source=linkShare"}
+
+    ]}   	 
+
+
+]}

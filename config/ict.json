@@ -1,0 +1,16 @@
+{"list":[
+   
+{"title":"Taken lijst","links":[
+    {"title":"IT Taken lijst","asset_url":"sharepoint","target_url": "https://jurinv753.sharepoint.com/sites/ict/Lists/IT%20Taken%20lijst/Open%20Items.aspx"}
+]},
+
+{"title":"Navision","links":[
+    {"title":"Issue list","asset_url":"sharepoint","target_url": "https://jurinv753.sharepoint.com/sites/jurinav/Lists/NAVISION%20ISSUES/Open%20Items.aspx"},
+    {"title":"CRQ list","asset_url":"sharepoint","target_url": "https://jurinv753.sharepoint.com/sites/jurinav/Lists/NAVISION%20CRQ/AllItems.aspx"},
+    {"title":"Documentatie","asset_url":"sharepoint","target_url": "https://jurinv753.sharepoint.com/sites/jurinav/Gedeelde%20documenten/Forms/AllItems.aspx"}
+
+]}
+
+
+]
+}

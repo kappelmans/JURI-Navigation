@@ -1,0 +1,48 @@
+{"list":[
+  
+{"title":"Algemeen","links":[
+    {"title":"Dashboard","asset_url":"powerBi","target_url": "https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/ce7060c8-46d1-4e45-9bf3-d13a5ef8ce6b/ReportSection?bookmarkGuid=Bookmark3092a4c3ae05e3d84439"},
+    {"title":"Procedures","asset_url":"sharepoint","target_url":"https://jurinv753.sharepoint.com/sites/boekhouding/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2Fboekhouding%2FGedeelde%20documenten%2FProcedures&viewid=2034360c%2D93a6%2D456b%2D8000%2D0dc6c6f7e03d"},
+    {"title":"Goedkeurflow afspraken","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/r/sites/boekhouding/_layouts/15/Doc.aspx?sourcedoc=%7BD6E361CF-24B7-4F9C-A51F-FCF9261DD034%7D&file=Goedkeurflow.xlsx&action=default&mobileredirect=true"},    
+    {"title":"Leverbonnen en facturen","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/s/intern/EcJZon34BtJIrH_R9rmk2tUBqoVyrfsDl5S9CnkZCA8hwg?e=XsxCWw"}
+]},
+
+{"title":"Inplanning","links":[
+    {"title":"Periodieke taken","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/s/boekhouding/EW2IZ_G4HF1Ku5869QT39fMBkg00g-4ExssJRMOKkWOL8A?e=nUaaI1"},
+    {"title":"Planning","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/s/boekhouding/EZ8nSHs-oIBHn13UayszUXAB_9QU-w7chsxpYd4J10-OvQ?e=bbRqz0"}
+]
+
+},
+   
+{"title":"Goedkeuringen","links":[
+    {"title":"BTW factuur goedkeuringen","asset_url":"powerBi","target_url": "https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/5c92a880-8e86-49d6-b322-8f54a0d7300c/ReportSectiondd501e70112844e8118d?bookmarkGuid=Bookmark7966a0802244a2153069"},
+    {"title":"KKB goedkeuringen","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/5c92a880-8e86-49d6-b322-8f54a0d7300c/ReportSection77c5492869e231ce6ee2?bookmarkGuid=Bookmark7d27e8802bd3c7764c06"}
+]},
+   
+{"title":"Klanten","links":[
+    {"title":"Openstaande klanten","asset_url":"powerBi","target_url": "https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/f2592301-8f76-44ca-b9a7-fdee50019b44/ReportSection?bookmarkGuid=Bookmark8b635db835abf4920d77"}
+]},
+
+{"title":"Leveranciers","links":[
+    {"title":"Inhoudingen","asset_url":"powerBi","target_url": "https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/5c92a880-8e86-49d6-b322-8f54a0d7300c/ReportSection8bef40df430aef40d828?bookmarkGuid=Bookmarkac2523c755d08a06700e"},
+    {"title":"Bankgaranties","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/5c92a880-8e86-49d6-b322-8f54a0d7300c/ReportSectionb1b5401a6431e388a633?bookmarkGuid=Bookmark2a1f2b83be48e904ecbe"},
+    {"title":"Open lev. posten","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/78d5de33-94f4-4a38-ad33-f256b72706d5/reports/5c92a880-8e86-49d6-b322-8f54a0d7300c/ReportSectiondf94b771eaea09958020?bookmarkGuid=Bookmarkcb79e45d480ccc271226"},
+    {"title":"Inkomende facturen","asset_url":"sharepoint","target_url":"https://jurinv753.sharepoint.com/sites/boekhouding/Lists/Inkomende%20facturatie%20emails/AllItems.aspx"}
+
+]},
+
+{"title":"Diversen","links":[
+    {"title":"Cross check investering","asset_url":"powerBi","target_url": "https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/fa37fdce-7b12-438b-89f5-b9a8e00eeaae/ReportSection"}
+]},
+
+{"title":"Power Excel","links":[
+    {"title":"Boekhouding","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/sites/intern/Juri Documenten/Forms/Boekhouding.aspx"},
+    {"title":"Aankoop","asset_url":"excel","target_url": "https://jurinv753.sharepoint.com/sites/intern/Juri Documenten/Forms/Aankoop.aspx"},
+    {"title":"Algemeen","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/sites/intern/Juri Documenten/Forms/Algemeen.aspx"}
+]}
+
+
+]}
+
+
+

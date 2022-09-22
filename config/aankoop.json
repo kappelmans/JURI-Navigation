@@ -1,0 +1,19 @@
+{"list":[
+
+  
+   
+{"title":"Stock","links":[
+    {"title":"Stock waarde","asset_url":"powerBi","target_url": "https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/10490840-65a3-4499-8c03-eff3fa1048bd/ReportSection?bookmarkGuid=Bookmark2dcc48c4470e7c64029d"},
+    {"title":"Stock detail","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/10490840-65a3-4499-8c03-eff3fa1048bd/ReportSectionbe5d3f49a70e188754b1"}
+]},
+
+{"title":"Power Excel","links":[
+    {"title":"Aankoop","asset_url":"excel","target_url": "https://jurinv753.sharepoint.com/sites/intern/Juri Documenten/Forms/Aankoop.aspx"},
+    {"title":"Algemeen","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/sites/intern/Juri Documenten/Forms/Algemeen.aspx"}
+]}
+
+
+
+
+]
+}
