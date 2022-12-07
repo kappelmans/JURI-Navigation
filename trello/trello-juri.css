@@ -1,0 +1,28 @@
+
+button{
+    color: black;
+}
+
+.tittel{
+    background-color:#EF7564;
+}
+
+.color1{
+    background-color:red ;
+}
+.color2{
+    background-color:blue ;
+    color: white;
+}
+.color3{
+    background-color:lightcoral;
+}
+.color4{
+    background-color:yellow ;
+}
+.color5{
+    background-color:cyan ;
+}
+.color6{
+    background-color: lawngreen ;
+}

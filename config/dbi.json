@@ -1,7 +1,5 @@
 {"list":[
 
-  
-   
 {"title":"Huurcontracten","links":[
     {"title":"Nieuw contract","asset_url":"sharepoint","target_url": "https://jurinv753.sharepoint.com/sites/dbi/Lists/Huur Contracten/Nieuwe%20huurcontracten.aspx"},
     {"title":"Alle contracten","asset_url":"sharepoint","target_url": "https://jurinv753.sharepoint.com/sites/dbi/Lists/Huur%20Contracten/Opvolging%20Huurcontracten.aspx"},
@@ -11,9 +9,6 @@
 {"title":"Power Excel","links":[
     {"title":"Betalingen klanten op project","asset_url":"excel","target_url": "https://jurinv753.sharepoint.com/:x:/s/dbi/ERvzzdBCvJ9Hh9aiHs_cPC8B7QqJr-02nelrs1zi_LwwYg?e=6sctMX"}
 ]}
-
-
-
 
 ]
 }

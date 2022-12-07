@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Juri Trello Extension",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "content_scripts": [ {
+        "css": [ "trello-juri.css" ],
+        "matches": [ "https://trello.com/*" ]
+     },
+     {
+        "matches": [ "https://trello.com/*" ],
+        "all_frames": true,
+        "js":["content_script.js"],
+        "run_at":"document_idle"
+  }
+ ]
+
+  }

@@ -24,8 +24,12 @@
     [        
         {"title":"Omzet per bestuurder / projectleider","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/4f0b116c-9191-4a68-a657-c633f7a5a878/reports/87d2f6cb-8090-426a-b523-507b402ef73f/ReportSection5f88a4b015adca9c9c77?bookmarkGuid=Bookmark5ba54bf6510026461010"},
         {"title":"Kosten publiciteit","asset_url":"powerBi","target_url":"https://app.powerbi.com/links/qTs6RwvsE1?ctid=255a9ca5-f810-42b4-bc76-b8cac74e1e72&pbi_source=linkShare"}
-
-    ]}   	 
-
-
+        
+    ]},
+    {"title":"Excel's (manueel)","links":  	
+    [        
+        {"title":"Evolutie omzet per bediende","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/r/sites/intern/_layouts/15/Doc.aspx?sourcedoc=%7BDE1D4D7C-475D-4E9A-842B-82D6BB9BB250%7D&file=Evolutie%20omzet%20per%20bediende.xlsx&action=default&mobileredirect=true"},
+        {"title":"Indexprognoses","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/r/sites/intern/_layouts/15/Doc.aspx?sourcedoc=%7B58257127-5FA0-40C0-947C-B274D2B538B4%7D&file=Indexprognoses.xlsx&action=default&mobileredirect=true"},
+        {"title":"Documenten","asset_url":"sharepoint","target_url":"https://jurinv753.sharepoint.com/:f:/r/sites/intern/Juri%20Documenten/Beheer%20en%20organisatie?csf=1&web=1&e=aM30gR"}
+    ]}
 ]}

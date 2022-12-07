@@ -1,0 +1,14 @@
+{"list": [
+    {"title":"Nieuwe rapporten","links":  	
+    [ 		
+        {"title":"Omzet per project","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/d46b36b7-b571-4fb8-a272-3bb3217ade7f/reports/648df469-7025-4915-b356-ab7e543165f2/ReportSection?bookmarkGuid=Bookmark20c59b405356d8735100"},      		
+        {"title":"Balans per periode","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/d46b36b7-b571-4fb8-a272-3bb3217ade7f/reports/8afd184b-8c44-490f-9d41-52042a926211/ReportSectione9e41c1184cae66a894b?bookmarkGuid=Bookmarkb6fafb8bb3d0ea90d64a"},      		
+        {"title":"Openstaande klanten","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/d46b36b7-b571-4fb8-a272-3bb3217ade7f/reports/fb351e0b-4fc4-496c-873d-b13f302630bd/ReportSection?bookmarkGuid=Bookmarkb1ae7ea058142b7a01ea"}        
+   
+        ]},
+        {"title":"Boekhouding","links":  	
+        [ 		
+            {"title":"DEGNO en ZEVARR Per. taken","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/r/sites/intern/Degmo%20Documenten/Boekhouding/Periodieke%20taken%20DEGMO%20ZEVARR%20afvinken.xlsx?d=w7ea22df656f34c129a658b3995831782&csf=1&web=1&e=aZnTtt"}       
+        ]}
+]}
+

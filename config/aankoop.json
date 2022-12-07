@@ -7,13 +7,11 @@
     {"title":"Stock detail","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/10490840-65a3-4499-8c03-eff3fa1048bd/ReportSectionbe5d3f49a70e188754b1"}
 ]},
 
-{"title":"Power Excel","links":[
+{"title":"Power Excel / BI","links":[
     {"title":"Aankoop","asset_url":"excel","target_url": "https://jurinv753.sharepoint.com/sites/intern/Juri Documenten/Forms/Aankoop.aspx"},
-    {"title":"Algemeen","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/sites/intern/Juri Documenten/Forms/Algemeen.aspx"}
+    {"title":"Algemeen","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/sites/intern/Juri Documenten/Forms/Algemeen.aspx"},
+    {"title":"Leverbonnen en facturen","asset_url":"excel","target_url":"https://jurinv753.sharepoint.com/:x:/s/intern/EcJZon34BtJIrH_R9rmk2tUBqoVyrfsDl5S9CnkZCA8hwg?e=XsxCWw"},
+    {"title":"Palletten en kalkzandsteen","asset_url":"powerBi","target_url":"https://app.powerbi.com/groups/98b47ec5-6b9f-46ec-ad79-0a611a3b966b/reports/b83dbc43-2a91-4e9c-af0b-c7ed94cd9e6e/ReportSectionc4af8c2fddd75045c981?bookmarkGuid=Bookmark30095e4b7c8b08024320"}
 ]}
-
-
-
-
 ]
 }
